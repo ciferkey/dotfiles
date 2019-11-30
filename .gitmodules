@@ -1,0 +1,18 @@
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule ".base16/base16-zenburn-scheme"]
+	path = .base16/base16-zenburn-scheme
+	url = https://github.com/elnawe/base16-zenburn-scheme
+[submodule ".base16/base16-rofi"]
+	path = .base16/base16-rofi
+	url = https://github.com/0xdec/base16-rofi.git
+[submodule ".base16/base16-dunst"]
+	path = .base16/base16-dunst
+	url = https://github.com/khamer/base16-dunst.git
+[submodule ".base16/base16-kitty"]
+	path = .base16/base16-kitty
+	url = https://github.com/kdrag0n/base16-kitty.git
+[submodule ".base16/base16-xresources"]
+	path = .base16/base16-xresources
+	url = https://github.com/binaryplease/base16-xresources.git
