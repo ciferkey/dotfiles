@@ -52,6 +52,7 @@ export QT_QPA_PLATFORMTHEME=gtk2
 
 xrdb -merge ~/.base16/base16-xresources/xresources/base16-zenburn-256.Xresources
 
+nm-applet &
 copyq &
 kitty &
 dunst &
