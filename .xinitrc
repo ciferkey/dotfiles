@@ -52,6 +52,11 @@ export QT_QPA_PLATFORMTHEME=gtk2
 
 xrdb -merge ~/.base16/base16-xresources/xresources/base16-zenburn-256.Xresources
 
+# See https://old.reddit.com/r/bspwm/comments/267srd/problem_with_intellij_bspwm/
+export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.crossplatformlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+export _JAVA_AWT_WM_NONREPARENTING=1
+wmname compiz &
+
 nm-applet &
 copyq &
 kitty &
