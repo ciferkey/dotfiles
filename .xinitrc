@@ -58,6 +58,7 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 wmname compiz &
 
 nm-applet &
+slimbookbattery &
 copyq &
 kitty &
 dunst &
